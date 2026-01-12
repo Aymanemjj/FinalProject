@@ -52,5 +52,6 @@ Peut-être ajouter une section « À propos » pour chaque artiste, et pour les 
 - Peut-être un framework (je ne sais pas lequel pour l'instant)
 
 ## Conception simple du squelette
-<img width="1300" height="755" alt="image" src="https://github.com/user-attachments/assets/69361761-10c5-4cef-8964-63a19a786962" />
+
+<img width="1296" height="752" alt="Screenshot From 2026-01-12 13-42-53" src="https://github.com/user-attachments/assets/80792eb7-18cf-4fea-be18-37d9436a8a30" />
 
